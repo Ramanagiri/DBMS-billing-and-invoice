@@ -5,3 +5,4 @@
 
 setup format -- https://flowbite.com/docs/getting-started/react/
 
+for using material tailwindcss -  npm i @heroicons/react
